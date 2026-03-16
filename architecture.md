@@ -1,4 +1,4 @@
-# 🏗 System Architecture
+# System Architecture
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4865a8f0-e79e-4674-a57f-89e16a3a5c30" />
 
